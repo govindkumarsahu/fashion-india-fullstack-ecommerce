@@ -83,7 +83,7 @@ An end-to-end e-commerce application built with modern web technologies, featuri
 
 - **Local Development**: Run all three parts as above. Access at localhost:5173 (frontend), localhost:5174 (admin), localhost:4000 (backend).
 - **API Endpoints**: See backend routes for user, product, cart, and order management.
-- **Admin Login**: Use credentials from `.env` (e.g., email: admin@example.com, password: greatstack123).
+- **Admin Login**: Use the `ADMIN_EMAIL` and `ADMIN_PASSWORD` configured in your `.env` file.
 
 ## 🚀 Deployment
 

@@ -113,6 +113,6 @@ This project is licensed under the ISC License.
 
 - **Developer**: [Govind Kumar]
 - **Email**: skgovind0904@gmail.com
-- **LinkedIn/GitHub**: [Your Profiles]
+- **LinkedIn/GitHub**: [[Your Profiles](https://www.linkedin.com/in/govind-kumar-sahu/)]
 
 ---

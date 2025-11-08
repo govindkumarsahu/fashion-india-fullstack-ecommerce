@@ -116,5 +116,3 @@ This project is licensed under the ISC License.
 - **LinkedIn/GitHub**: [Your Profiles]
 
 ---
-
-*Built with passion for modern web development and e-commerce innovation. Perfect for showcasing full-stack skills in job applications!*

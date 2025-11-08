@@ -3,9 +3,9 @@
 An end-to-end e-commerce application built with modern web technologies, featuring a user-friendly frontend, robust backend API, and an admin dashboard for product management. This project demonstrates full-stack development skills, including authentication, payment integration, cloud storage, and responsive UI design.
 
 ## 🚀 Live Links
-- **Frontend (User App)**: [Fashion India](https://your-frontend.vercel.app)
-- **Admin Panel**: [Admin Dashboard](https://your-admin.vercel.app)
-- **Backend API**: [API Base URL](https://your-backend.vercel.app)
+- **Frontend (User App)**: [Fashion India](https://fashion-india.vercel.app)
+- **Admin Panel**: [Admin Dashboard](https://fashion-india-admin.vercel.app)
+- **Backend API**: [API Base URL](https://fashion-india-backend.vercel.app)
 
 ## 🚀 Features
 

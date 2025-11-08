@@ -2,6 +2,11 @@
 
 An end-to-end e-commerce application built with modern web technologies, featuring a user-friendly frontend, robust backend API, and an admin dashboard for product management. This project demonstrates full-stack development skills, including authentication, payment integration, cloud storage, and responsive UI design.
 
+## 🚀 Live Links
+- **Frontend (User App)**: [Fashion India](https://your-frontend.vercel.app)
+- **Admin Panel**: [Admin Dashboard](https://your-admin.vercel.app)
+- **Backend API**: [API Base URL](https://your-backend.vercel.app)
+
 ## 🚀 Features
 
 - **User Authentication**: Secure login/signup with JWT tokens.
@@ -106,7 +111,7 @@ This project is licensed under the ISC License.
 
 ## 📞 Contact
 
-- **Developer**: [Your Name]
+- **Developer**: [Govind Kumar]
 - **Email**: skgovind0904@gmail.com
 - **LinkedIn/GitHub**: [Your Profiles]
 
